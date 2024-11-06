@@ -1,5 +1,5 @@
 # Project Title
-Vegetables insights.
+Dataset on veggie prices for 10 types over a year.
 
 ## Installation
 Steps to install the project.
