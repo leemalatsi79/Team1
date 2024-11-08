@@ -1,0 +1,10 @@
+This project requires the following Python libraries:
+
+pandas: For data manipulation and analysis.
+matplotlib: For creating visualizations (plots and graphs).
+seaborn: For statistical data visualizations.
+numpy: For numerical operations.
+To install these libraries, simply run:
+
+pip install -r requirements.txt
+Make sure that your environment is activated when you run the above command.
